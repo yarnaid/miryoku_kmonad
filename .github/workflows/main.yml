@@ -9,13 +9,13 @@ on:
         type: string
       alphas:
         type: string
-        default: '["default"]'
+        default: '["qwerty"]'
       nav:
         type: string
         default: '["default"]'
       clipboard:
         type: string
-        default: '["default"]'
+        default: '["mac"]'
       layers:
         type: string
         default: '["default"]'
@@ -24,7 +24,7 @@ on:
         default: '["default"]'
       kmonad_os:
         type: string
-        default: '["default"]'
+        default: '["mac"]'
       rules:
         type: string
         default: '["default"]'

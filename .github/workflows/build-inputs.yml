@@ -8,7 +8,7 @@ on:
       alphas:
         description: 'Miryoku Alphas'
         required: false
-        default: 'default'
+        default: 'qwerty'
       nav:
         description: 'Miryoku Nav'
         required: false
@@ -16,7 +16,7 @@ on:
       clipboard:
         description: 'Miryoku Clipboard'
         required: false
-        default: 'default'
+        default: 'mac'
       layers:
         description: 'Miryoku Layers'
         required: false
@@ -28,7 +28,7 @@ on:
       kmonad_os:
         description: 'Miryoku KMonad 0S'
         required: false
-        default: 'default'
+        default: 'mac'
       rules:
         description: 'custom_rules.mk'
         required: false
